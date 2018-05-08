@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{149E6973-EBD9-4016-BF2C-9581B7C4F597}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>Estructuras_Control_Flujo.ej2_5</StartupObject>
+    <StartupObject>Estructuras_Control_Flujo.ej2_7</StartupObject>
     <RootNamespace>Estructuras_Control_Flujo</RootNamespace>
     <AssemblyName>Estructuras_Control_Flujo</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -78,6 +78,8 @@
     <Compile Include="ej2_3.vb" />
     <Compile Include="ej2_4.vb" />
     <Compile Include="ej2_5.vb" />
+    <Compile Include="ej2_6.vb" />
+    <Compile Include="ej2_7.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
