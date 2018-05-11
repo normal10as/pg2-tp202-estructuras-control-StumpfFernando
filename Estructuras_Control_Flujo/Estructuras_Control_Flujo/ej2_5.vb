@@ -1,17 +1,17 @@
 ﻿Module ej2_5
-    Enum mes
-        enero
+    Public Enum mes
+        enero = 31
         febrero
-        marzo
-        abril
-        mayo
-        junio
-        julio
-        agosto
-        septiembre
-        octubre
-        noviembre
-        diciembre
+        marzo = 31
+        abril = 30
+        mayo = 31
+        junio = 30
+        julio = 31
+        agosto = 31
+        septiembre = 30
+        octubre = 31
+        noviembre = 30
+        diciembre = 31
     End Enum
     Sub Main()
         Console.WriteLine("Ingrese el numero correspondiente para el mes")
